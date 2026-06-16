@@ -1,0 +1,6 @@
+{
+  "name": "Unclothes - TON Mini App Catalog",
+  "description": "Premium apparel catalog with Telegram Auth, Adsgram SDK discount integration, and TON Wallet checkout simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
